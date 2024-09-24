@@ -38,7 +38,7 @@ Welcome to the FOSS Club DTC! We are committed to creating an inclusive and resp
 
 ## Reporting Violations
 
-To report a violation of this Code of Conduct, please email us at [official TFC email address] with details of the incident, including location and names of individuals present.
+To report a violation of this Code of Conduct, please email us at [fossclub@proton.me] with details of the incident, including location and names of individuals present.
 
 ## License
 
