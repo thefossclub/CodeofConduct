@@ -1,6 +1,6 @@
-# FOSS Club DTC Code of Conduct
+# THE FOSS Club: Code of Conduct
 
-Welcome to the FOSS Club DTC! We are committed to creating an inclusive and respectful environment for all participants. This Code of Conduct applies to everyone involved in our community, including board members, sponsors, employees, volunteers, contributors, and event attendees.
+Welcome to The FOSS Club! We are committed to creating an inclusive and respectful environment for all participants. This Code of Conduct applies to everyone involved in our community, including board members, sponsors, employees, volunteers, contributors, and event attendees.
 
 ## Guidelines
 
@@ -48,4 +48,4 @@ This Code of Conduct is licensed under a [Creative Commons Attribution Share-Ali
 
 TFC's Code of Conduct is derived from the official GNOME Code of Conduct, which is licensed under a Creative Commons 3 License.
 
-Thank you for being a part of the FOSS Club DTC community!
+Thank you for being a part of The FOSS Club community!
