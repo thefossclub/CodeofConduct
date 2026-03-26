@@ -99,9 +99,9 @@ Social media should be used as a tool for positive communication, collaboration,
 
 If you experience or witness any violations of this Code of Conduct, it is important to report the incident as soon as possible. Reporting is a crucial part of maintaining the safety and inclusivity of our community. Here’s how you can report an issue:
 
-- **Email**: Please send an email to *fossclub@proton.me* with a detailed description of the incident. Include relevant information such as where and when the incident occurred, the people involved, and any witnesses.
+- **Email**: Please send an email to *contact@thefossclub.org* with a detailed description of the incident. Include relevant information such as where and when the incident occurred, the people involved, and any witnesses.
   
-- **Phone**: If urgent, contact us at **+918979843626**.
+- **Phone**: If urgent, contact us at **+91 93544 24599**.
 
 - **In-person**: If attending an event, you can report the issue directly to a board member or the faculty coordinator, **Ms. Eirtty Telang**.
 
