@@ -101,9 +101,9 @@ If you experience or witness any violations of this Code of Conduct, it is impor
 
 - **Email**: Please send an email to *contact@thefossclub.org* with a detailed description of the incident. Include relevant information such as where and when the incident occurred, the people involved, and any witnesses.
   
-- **Phone**: If urgent, contact us at **+91 93544 24599**.
+- **Phone**: If urgent, contact us at **+91 8882895216**.
 
-- **In-person**: If attending an event, you can report the issue directly to a board member or the faculty coordinator, **Ms. Eirtty Telang**.
+- **In-person**: If attending an event, you can report the issue directly to a board member or the faculty coordinator, **Ms. Shilpa Khurana**.
 
 All reports will be handled with discretion and confidentiality. We are committed to ensuring that complaints are taken seriously and that appropriate actions are taken to address the issue.
 
